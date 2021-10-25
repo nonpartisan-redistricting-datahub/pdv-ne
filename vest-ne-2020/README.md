@@ -15,11 +15,11 @@ Please reach out to info@redistrictingdatahub.org to reach our support team if y
 - NE Precinct-Level Elections Results, 2020, Presidential Contest 
    - Date accessed: 10/05/21, Source: NE Secretary of State
    - https://electionresults.nebraska.gov/resultsSW.aspx?text=Race&type=PRS&map=CTY
-   - Note: Precinct-level results are available by clicking the “County Level Results” button in the header of the results table. Click the green “Export Precinct Results to Excel” button on the next page ([direct link](https://electionresults.nebraska.gov/ResultsExport.aspx?rid=11232&pty=&osn=90&name=For President and Vice President of the United States&cat=CTYALL)).
+   - Note: Precinct-level results are available by clicking the “County Level Results” button in the header of the results table. Click the green “Export Precinct Results to Excel” button on the next page \([direct link](https://electionresults.nebraska.gov/ResultsExport.aspx?rid=11232&pty=&osn=90&name=For%20President%20and%20Vice%20President%20of%20the%20United%20States&cat=CTYALL)).
 - NE Precinct-Level Elections Results, 2020, Senate Contest
    - Date accessed: 10/05/21, Source: NE Secretary of State
    - https://electionresults.nebraska.gov/resultsSW.aspx?text=Race&type=SW&map=CTY
-   - Note: Precinct-level results are available by clicking the “County Level Results” button in the header of the results table. Click the green “Export Precinct Results to Excel” button on the next page ([direct link](https://electionresults.nebraska.gov/ResultsExport.aspx?rid=10830&pty=&osn=102&name=For United States Senator - 6  Year Term&cat=CTYALL)).
+   - Note: Precinct-level results are available by clicking the “County Level Results” button in the header of the results table. Click the green “Export Precinct Results to Excel” button on the next page ([direct link](https://electionresults.nebraska.gov/ResultsExport.aspx?rid=10830&pty=&osn=102&name=For%20United%20States%20Senator%20-%206%20%20Year%20Term&cat=CTYALL)).
 - Lancaster County Precinct Maps
    - Date accessed: 10/07/21
    - https://www.lancaster.ne.gov/494/Individual-Precinct-Maps
