@@ -86,7 +86,6 @@ Please reach out to info@redistrictingdatahub.org to reach our support team if y
 - Harlan County Precinct Maps
   - Notes: Precinct boundaries are not available on their website, and county elections officials did not return our request for precinct maps/shapefiles.  
 - Box Butte County Precinct Maps
-- Burt County Precinct Maps
 - Butler County Precinct Maps
   - Polling places and precinct names are available on their website, but no precinct boundary information. 
 - Chase County Precinct Maps
